@@ -18,6 +18,7 @@ body {
 
 .image-wrap {
     width: 90%;
+    vertical-align: middle;
 }
 
 .header {
@@ -47,6 +48,10 @@ body {
 
 .my-navbar li {
     float: left;
+}
+
+.my-navbar li a {
+    text-decoration: none;
 }
 
 li a {
